@@ -22,14 +22,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Project specific
-Bank Statements/
-Input files CSV and Excel/
-*.pdf
-*.csv
-*.xlsx
-*.xls
-
 # Sensitive data
 *.env
 .env
